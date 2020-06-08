@@ -168,7 +168,7 @@ class App extends Component {
                  // console.log(content)
                 }}>
             <Input type="select" placeholder="candidate" onChange={this.handleDropdownChange} >   
-  
+                
             <option  selected>Candidates</option>
             <option value="1">candidate 1</option>
             <option value="2">candidate 2</option>
